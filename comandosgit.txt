@@ -1,5 +1,7 @@
-git status= verificar estado
-git add=    agregar archivo
-git commit= crear estado de desarrollo o version
-git restore = restaurar version anterior
-git diff = verificar diferencia entre versiones 
+git status             = verificar estado
+git add                = agregar archivo
+git commit             = crear estado de desarrollo o version
+git restore            = restaurar version anterior
+git diff               = verificar diferencia entre versiones 
+git log                = verificar versiones echas
+git commit -m          = crear estado de desarrollo o version sin abrir ventana de comandos 
