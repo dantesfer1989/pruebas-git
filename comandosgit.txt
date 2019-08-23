@@ -1,7 +1,11 @@
 git status             = verificar estado
 git add                = agregar archivo
+git add .              = agregar todos los archivos cambiados 
 git commit             = crear estado de desarrollo o version
 git restore            = restaurar version anterior
 git diff               = verificar diferencia entre versiones 
 git log                = verificar versiones echas
 git commit -m          = crear estado de desarrollo o version sin abrir ventana de comandos 
+git branch             = verificar el modulo de las versiones 
+git branch "nombre"    = se crea nuevo modulo de las versiones 
+git checkout "nombre"  = se selecciona el modulo qie se requiere de las versiones 
